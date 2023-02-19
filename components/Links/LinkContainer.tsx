@@ -1,6 +1,7 @@
 import { Card, Image, Text, Badge, Button, Group, Chip, Divider } from '@mantine/core';
 import LinkStack from './LinkStack';
 import LinkAvatar from './LinkAvatar';
+import CallToAction from './CallToAction';
 
 export default function LinkContainer() {
   return (
@@ -19,10 +20,8 @@ export default function LinkContainer() {
       <LinkStack/>
 
       <Divider my="sm" />
-      
-      <Button variant="light" color="blue" fullWidth mt="md" radius="md">
-        Call To Action
-      </Button>
+
+      <CallToAction/>
     </Card>
   );
 }
