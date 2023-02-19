@@ -1,5 +1,18 @@
 # Simple Link Display
 
+To-Do:
+[x] Links editierbar machen
+[x] CTA editierbar machen
+[ ] Social Icons editierbar machen
+[ ] Avatar-Bereich editierbar machen
+[ ] Subtitle editierbar machen
+[ ] Chip editierbar machen
+[ ] Footer editierbar machen
+
+[ ] Datenbank anlegen (sqlite?!)
+[ ] Anpassungen in Backend auslagern
+
+
 ## npm scripts
 
 ### Build and dev scripts

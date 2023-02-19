@@ -1,4 +1,3 @@
-import { Welcome } from '../components/Welcome/Welcome';
 import { ColorSchemeToggle } from '../components/ColorSchemeToggle/ColorSchemeToggle';
 import LinkContainer from '../components/Links/LinkContainer';
 import { Container } from '@mantine/core';
