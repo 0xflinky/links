@@ -14,7 +14,7 @@ export default function LinkContainer() {
 
       <Group position="apart" mt="md" mb="xs">
         <Text weight={500}>Subtitle</Text>
-        <Chip defaultChecked variant='filled'>Verified</Chip>
+        <Chip disabled defaultChecked variant='filled'>Verified</Chip>
       </Group>
 
       <LinkStack/>
