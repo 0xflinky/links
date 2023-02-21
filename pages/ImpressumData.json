@@ -1,0 +1,17 @@
+{
+  "companyName": "Musterfirma AöR",
+  "address": "Musterstraße 123, 12345 Musterstadt",
+  "phone": "+49 (0) 123 456789",
+  "fax": "+49 (0) 123 456789-9",
+  "email": "info@musterfirma.de",
+  "website": "www.musterfirma.de",
+  "executives": [
+    "Max Mustermann",
+    "Maria Musterfrau"
+  ],
+  "court": "Amtsgericht Musterstadt",
+  "registerNumber": "HRB 12345",
+  "vatId": "DE123456789",
+  "responsiblePerson": "Max Mustermann",
+  "disclaimer": "Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich."
+}

@@ -4,10 +4,13 @@ To-Do:
 [x] Links editierbar machen
 [x] CTA editierbar machen
 [ ] Social Icons editierbar machen
-[ ] Avatar-Bereich editierbar machen
-[ ] Subtitle editierbar machen
-[ ] Chip editierbar machen
-[ ] Footer editierbar machen
+[x] Avatar-Bereich editierbar machen
+[x] Subtitle editierbar machen
+[x] Chip editierbar machen
+[x] Footer editierbar machen
+
+[x] Untersützung für Impressum (editierbar)
+[ ] und Datenschutzerklärung
 
 [ ] Datenbank anlegen (sqlite?!)
 [ ] Anpassungen in Backend auslagern
